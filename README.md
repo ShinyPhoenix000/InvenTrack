@@ -1,8 +1,8 @@
 # InvenTrack
 
-InvenTrack is a modern inventory and order management system designed for small to medium businesses. It allows you to manage products, monitor stock levels, and place orders — all in a clean, responsive interface powered by React, Supabase, and Tailwind CSS.
+InvenTrack is a modern inventory and order management system designed for small to medium businesses. It allows you to manage products, monitor stock levels, and place orders,all in a clean, responsive interface powered by React, Supabase, and Tailwind CSS.
 
-⸻
+
 
 Features
 	•	Add, update, and delete products with SKU, quantity, and price
@@ -12,7 +12,6 @@ Features
 	•	Sales velocity insights (units/day) with radial charts
 	•	Analytics using visual charts (Recharts)
 
-⸻
 
 Tech Stack
 	•	React + Vite + TypeScript for frontend development
