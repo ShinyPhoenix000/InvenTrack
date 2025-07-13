@@ -36,7 +36,9 @@ cd InvenTrack
 3.Create Environment Variables
 
 Create a .env file at the root of your project and add your Supabase credentials:
+
 VITE_SUPABASE_URL=https://your-project.supabase.co
+
 VITE_SUPABASE_ANON_KEY=your-anon-public-key
 
 4.Run the App
@@ -46,8 +48,13 @@ npm run dev
 
 src/
 ├── components/       // Reusable UI components
+
 ├── pages/            // Main pages like Dashboard
+
 ├── lib/              // Supabase client setup
+
 ├── types/            // TypeScript interfaces
+
 ├── App.tsx           // Main application logic
+
 ├── main.tsx          // Entry point
