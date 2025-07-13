@@ -28,9 +28,11 @@ Getting Started
 In bash:
 
 git clone https://github.com/your-username/InvenTrack.git
+
 cd InvenTrack
 
 2. Install Dependencies
+   
   npm install
 
 3.Create Environment Variables
@@ -47,14 +49,15 @@ npm run dev
 5.Folder Structure:
 
 src/
-├── components/       // Reusable UI components
 
-├── pages/            // Main pages like Dashboard
+├── components/       	// Reusable UI components
 
-├── lib/              // Supabase client setup
+├── pages/            	// Main pages like Dashboard
 
-├── types/            // TypeScript interfaces
+├── lib/             	 // Supabase client setup
 
-├── App.tsx           // Main application logic
+├── types/            	// TypeScript interfaces
 
-├── main.tsx          // Entry point
+├── App.tsx           	// Main application logic
+
+├── main.tsx         	 // Entry point
